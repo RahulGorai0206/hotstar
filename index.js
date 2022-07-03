@@ -111,11 +111,11 @@ let movies = [
     let containerWidth = containerDimensions.width;
   
     nxtBtns[i].addEventListener("click", () => {
-      item.scrollLeft += containerWidth - 200;
+      item.scrollLeft += containerWidth - 500;
     });
   
     preBtns[i].addEventListener("click", () => {
-      item.scrollLeft -= containerWidth + 200;
+      item.scrollLeft -= containerWidth + 500;
     });
   });
   

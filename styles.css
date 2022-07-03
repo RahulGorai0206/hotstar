@@ -235,7 +235,7 @@
     height: 250px;
     border-radius: 5px;
     overflow: hidden;
-    margin-right: 10px;
+    margin-right: 20px;
     transition: 0.5s;
   }
   
@@ -246,7 +246,7 @@
   }
   
   .card:hover {
-    transform: scale(1.1);
+    transform: scale(1.16);
   }
   
   .card:hover .card-body {
