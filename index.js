@@ -83,7 +83,7 @@ let movies = [
   
   setInterval(() => {
     createSlide();
-  }, 5000);
+  }, 3000);
   
   //Video Cards
   
